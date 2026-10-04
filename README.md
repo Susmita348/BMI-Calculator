@@ -4,8 +4,8 @@ A simple and user-friendly web application for calculating Body Mass Index (BMI)
 
 ## 🚀 Features
 
-- Enter weight in kg or lb
-- Enter height in cm or inches
+- Enter weight in kg
+- Enter height in cm 
 - Real-time BMI calculation
 - Displays BMI value and health category
 - Health categories: Underweight, Normal, Overweight, and Obese
